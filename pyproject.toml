@@ -11,7 +11,8 @@ dependencies = [
     "pluggy",
     "Pillow",
     "requests",
-    "beautifulsoup4"
+    "beautifulsoup4",
+    "setuptools"
 ]
 
 [project.optional-dependencies]
